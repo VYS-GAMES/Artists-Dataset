@@ -8,7 +8,8 @@
 ## Install
 
 ```shell
-npm install json-server
+yarn install
+yarn start
 ```
 
 ## Usage
